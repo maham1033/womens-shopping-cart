@@ -1,4 +1,4 @@
-# womens-shopping-cart-Fashion Fiesta – Stylish Shopping Cart for Girls
+# womens-shopping-cart – Stylish Shopping Cart for Girls
 
 ## [Live Demo](https://womens-shopping-cart.vercel.app/)
 
