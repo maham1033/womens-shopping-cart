@@ -1,6 +1,6 @@
 # womens-shopping-cart – Stylish Shopping Cart for Girls
 
-## [Live Demo](https://womens-shopping-cart.vercel.app/)
+## [Live Demo](https://womens-shopping-cart-uv9u.vercel.app/)
 
 A modern, responsive shopping cart web app built for a trendy fashion store targeted at girls aged 18–25. It offers a smooth user experience with real-time cart updates, quantity adjustment, and local storage support — all using pure JavaScript, HTML, and CSS.
 
